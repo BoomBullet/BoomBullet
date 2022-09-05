@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BoomBullet
-- 👀 I’m interested in what the future is developing into.
+- 👋 Hi, I’m Soneeka
+- 👀 I’m interested in what the future is developing into
 - 🌱 I’m currently learning the world of Data Science and Business Analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ This is where I share my projects I have done through what I'm currently learning
 - 📫 How to reach me ...
 
 <!---
